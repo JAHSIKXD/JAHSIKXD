@@ -6,5 +6,5 @@
 - 🌱 I’m currently learning Ruby
 
 
-- 📫 How to reach me: Discord(@!jahsik#3995)
+- 📫 How to reach me: Discord(@!jahsik#6969)
 
