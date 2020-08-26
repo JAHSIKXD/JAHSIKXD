@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on nothing 😔
+- 🔭 I’m currently working on BoostBOT 😔
 
 
 - 🌱 I’m currently learning Ruby
