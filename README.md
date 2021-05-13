@@ -11,6 +11,7 @@
 ### Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JAHSIKXD&show_icons=true&theme=dark)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JAHSIKXD&theme=dark&layout=compact)
 
 ### The tools I use
