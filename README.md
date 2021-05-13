@@ -10,8 +10,8 @@
 
 ### Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=JAHSIKXD&count_private=true&include_all_commits&theme=gruvbox" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAHSIKXD&langs_count=8&theme=gruvbox" /
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JAHSIKXD&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JAHSIKXD&theme=dark&layout=compact)
 
 ### The tools I use
 
