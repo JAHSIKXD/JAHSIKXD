@@ -1,4 +1,4 @@
-<link href="https://languages.abranhe.com/logos.css" rel="stylesheet">
+
 # sup, i'm jahsik frontend dev
 ### What do language I use 
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>&nbsp;
@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>&nbsp;
 <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
 <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-<i class="programming lang-go"></i>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JAHSIKXD" alt="JAHSIKXD" /> </p>
 
