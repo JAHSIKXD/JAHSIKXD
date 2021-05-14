@@ -31,11 +31,6 @@
 
 
 ### Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JAHSIKXD&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JAHSIKXD&theme=dark&layout=compact)
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=JAHSIKXD" alt="JAHSIKXD" /> </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JAHSIKXD&show_icons=true&theme=dracula" alt="JAHSIKXD" height="200"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAHSIKXD&hide=lua&theme=dracula" alt="JAHSIKXD's github stats"/>
