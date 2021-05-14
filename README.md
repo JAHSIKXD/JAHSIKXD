@@ -12,7 +12,8 @@
 
 - 🎵 I might be listening to something, you can see here right below :)
 
-[<img src="https://readme-spotify-status-three.vercel.app/api/run-spotify-status" alt="jahsik" width="350" />](https://open.spotify.com/user/jahsik)
+[<img src="https://readme-spotify-status-pi.vercel.app/api/run-spotify-status" alt="Your alt what" width="500" />](https://open.spotify.com/user/jahsik)
+
 
 #### Languages and Tools:
 
