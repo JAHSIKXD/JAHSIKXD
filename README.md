@@ -12,7 +12,9 @@
 
 - 🎵 I might be listening to something, you can see here right below :)
 
-[<img src="https://readme-spotify-status-pi.vercel.app/api/run-spotify-status" alt="spotify" width="500" />](https://open.spotify.com/user/jahsik)
+<a href="https://vercel.com/jahsikxd/natemoo-re/now-playing?open">
+    <img src="https://vercel.com/jahsikxd/natemoo-re/now-playing" width="256" height="64" alt="Now Playing">`
+</a>
 
 
 #### Languages and Tools:
