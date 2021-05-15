@@ -10,12 +10,6 @@
 
 - Fun Fact **I listening to music 24/7 😆**
 
-- 🎵 I might be listening to something, you can see here right below :)
-
-<a href="https://vercel.com/jahsikxd/natemoo-re/now-playing?open">
-    <img src="https://vercel.com/jahsikxd/natemoo-re/now-playing" width="256" height="64" alt="Now Playing">`
-</a>
-
 
 #### Languages and Tools:
 
