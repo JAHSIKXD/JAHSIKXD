@@ -10,6 +10,11 @@
 
 - Fun Fact **I listening to music 24/7 😆**
 
+![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/633637146829520903?simple=true)
+![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/633637146829520903)
+![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/633637146829520903)
+[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/633637146829520903)](https://dev.discordprofiles.me/openspotify/633637146829520903)
+
 
 #### Languages and Tools:
 
